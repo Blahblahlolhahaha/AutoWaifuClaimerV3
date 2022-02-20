@@ -1,0 +1,14 @@
+{
+    "email": "insert discord email here",
+    "password":"insert discord password here",
+    "mudaeID":"432610292342587392",
+    "channelID":"insert ID of channel to read messages/run commands in",
+    "serverID":"insert ID of server which the bot is running in",
+    "userID":"insert your user ID here",
+    "username":"insert ur username here",
+    "botToken":"insert bot token here",
+    "emoji":":eyes:",
+    "rollsReset":60,
+    "claimsReset":180,
+    "claimCommand":""
+}
